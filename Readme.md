@@ -1,0 +1,2 @@
+The script collects data about games(name, views, comments, url) from the https://stopgame.ru and writes the data in the .csv file.
+To load script open your console in dir with script and type: 'py async_main.py'
